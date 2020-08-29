@@ -203,12 +203,12 @@ section {
 }
 section .section-title {
   text-align: center;
-  color: #11999e;
+  color: #34a590;
   margin-bottom: 50px;
   text-transform: uppercase;
 }
 #what-we-do {
-  background: #ffffff;
+  background: #9da8a636;
 }
 #what-we-do .card {
   padding: 1rem !important;
@@ -387,7 +387,7 @@ section .section-title {
 .contact-section .content h2 {
   font-size: 36px;
   font-weight: 500;
-  color: #3333338c;
+  color: #3e94a08c;
 }
 
 .contact-container {
@@ -412,7 +412,7 @@ section .section-title {
 .contact-container .contact-Info .contact-box .contact-icon {
   min-width: 60px;
   height: 60px;
-  background: #fff;
+  background: rgb(255, 255, 255);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -425,14 +425,14 @@ section .section-title {
 .contact-container .contact-Info .contact-box .contact-text {
   display: flex;
   font-size: 16px;
-  color: rgb(138, 130, 130);
+  color: rgb(67, 67, 77);
   flex-direction: column;
   font-weight: 300;
 }
 
 .contact-container .contact-Info .contact-box .contact-text h3 {
   font-weight: 500;
-  color: #ef5c8e;
+  color: #16aa91;
 }
 
 .contact-form {
@@ -443,7 +443,7 @@ section .section-title {
 }
 .contact-form h2 {
   font-size: 30px;
-  color: #a37b89;
+  color: #16aa91b2;
   font-weight: 500;
 }
 
@@ -460,7 +460,7 @@ section .section-title {
   font-size: 16px;
   margin: 10px 0;
   border: none;
-  border-bottom: 2px solid #db92ac;
+  border-bottom: 2px solid #30e3ca;
   outline: none;
   resize: none;
 }
@@ -479,7 +479,7 @@ section .section-title {
 .contact-form .inputBox input:valid ~ span,
 .contact-form .inputBox textarea:focus ~ span,
 .contact-form .inputBox textarea:valid ~ span {
-  color: #1e7de9;
+  color: #2fdad1c9;
   font-size: 12px;
   transform: translateY(-20px);
   transition-duration: 0.5s;
@@ -668,7 +668,7 @@ section .section-title {
 }
 .footer-items ul {
   list-style: none;
-  color: #8151a8;
+  color: #318383d8;
   font-size: 15px;
   letter-spacing: 0.6px;
 }
@@ -746,7 +746,7 @@ section .section-title {
   text-align: center;
   padding: 4px;
   background: #cec6c95b;
-  color: rgb(155, 93, 134);
+  color: #40514e;
   font-size: 10px;
 }
 

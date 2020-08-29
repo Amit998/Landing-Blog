@@ -205,8 +205,10 @@ section .section-title {
   text-align: center;
   color: #34a590;
   margin-bottom: 50px;
+  padding-bottom: 30px;
   text-transform: uppercase;
 }
+
 #what-we-do {
   background: #9da8a636;
 }
